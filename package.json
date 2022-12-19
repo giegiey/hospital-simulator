@@ -1,0 +1,21 @@
+{
+  "name": "hospital-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node data.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "axios": "^0.27.2",
+    "date-and-time": "^2.4.0",
+    "store2": "^2.14.2",
+    "systeminformation": "^5.12.1",
+    "underscore": "^1.13.4"
+  }
+}
